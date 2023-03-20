@@ -1,32 +1,17 @@
 # Project 5 - *MarleyReal*
 
-Submitted by: **Adam Kobke**
+Created by: **Adam Kobke**
 
 **Marley Real** is an app that lets you upload pictures 
 
-Time spent: **7** hours spent in total
+Time spent: **12** hours spent in total
 
-## Required Features
-
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [X] User can register a new account
 - [X] User can log in with newly created account
 - [X] App has a feed of posts when user logs in
 - [X] User can upload a new post which takes in a picture from photo library and a caption	
- 
-The following **optional** features are implemented:
-
-- [ ] Users can pull to refresh their feed and see a loading indicator
-- [ ] Users can infinite-scroll in their feed to see past the 10 most recent photos
-- [ ] Users can see location and time of photo upload in the feed	
-- [X] User is able to logout
-- [ ] User stays logged in when app is closed and open again	
-
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
